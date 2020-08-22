@@ -1,6 +1,8 @@
 {
     "title": "The Other Hobbs Family Cookbook",
     "titleURL": "extras/TheOtherHobbsFamilyCookbook.md",
+    "headerColor": "lightsteelblue",
+    "titleColor": "lightblue",
     "categories": [
         {
             "title": "Introduction",
