@@ -3,6 +3,15 @@
     "titleURL": "extras/TheOtherHobbsFamilyCookbook.md",
     "categories": [
         {
+            "title": "Introduction",
+            "files": [
+                {
+                    "title": "Introduction",
+                    "url": "extras/Introduction.md"
+                }
+            ]
+        },
+        {
             "title": "Recipes",
             "files": [
                 {
