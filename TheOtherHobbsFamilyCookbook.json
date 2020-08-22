@@ -1,0 +1,19 @@
+{
+    "title": "The Other Hobbs Family Cookbook",
+    "titleURL": "extras/TheOtherHobbsFamilyCookbook.md",
+    "categories": [
+        {
+            "title": "Recipes",
+            "files": [
+                {
+                    "title": "Ground Beef Chili",
+                    "url": "recipes/GroundBeefChili.md"
+                },
+                {
+                    "title": "Vegan Chili",
+                    "url": "recipes/VeganChili.md"
+                }
+            ]
+        }
+    ]
+}
