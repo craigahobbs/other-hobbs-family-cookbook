@@ -1,3 +1,3 @@
 # The Other Hobbs Family Cookbook
 
-View the cookbook [here](https://craigahobbs.github.io/hobbs-family-cookbook/#url=https://craigahobbs.github.io/other-hobbs-family-cookbook/TheOtherHobbsFamilyCookbook.json#categories.0=Introduction).
+View the cookbook [here](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Introduction&categories.1=Recipes&url=https://craigahobbs.github.io/other-hobbs-family-cookbook/TheOtherHobbsFamilyCookbook.json).
