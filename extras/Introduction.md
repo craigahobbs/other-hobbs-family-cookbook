@@ -5,4 +5,4 @@ collection of recipes that I've come across over the years. Some recipes I've tw
 
 The source code for the cookbook is [here](https://github.com/craigahobbs/other-hobbs-family-cookbook#readme).
 
-This cookbook is viewed above using the [Hobbs Family Cookbook](https://github.com/craigahobbs/hobbs-family-cookbook#readme)'s markdown book application.
+This cookbook is viewed above using the [Markdown Book](https://github.com/craigahobbs/markdown-book#readme) application.
