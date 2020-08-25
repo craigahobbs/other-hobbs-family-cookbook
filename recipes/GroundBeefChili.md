@@ -6,17 +6,29 @@ Title: Ground Beef Chili
 
 ~~~ recipe-ingredients
 1 tablespoon oil
+
 1 1/2 pounds ground beef
+
 1 Whole onion, diced
+
 4 cloves garlic, minced
+
 1 serrano pepper, minced
+
 3 tablespoons chili powder
+
 1 tablespoons cumin
+
 1 tablespoon oregano
+
 2 teaspoons salt
+
 1 28-ounce can crushed tomatoes
+
 2 14-ounce cans black beans, drained
+
 1 14-ounce can pinto beans, drained
+
 2 cups beef broth (plus more to thin as needed)
 ~~~
 

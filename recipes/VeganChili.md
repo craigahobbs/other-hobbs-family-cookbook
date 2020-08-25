@@ -6,18 +6,31 @@ Title: Vegan Chili
 
 ~~~ recipe-ingredients
 1 tbsp olive oil
+
 1.5 cup onion, chopped
+
 2 tsp salt
+
 1 tsp garlic powder
+
 4 tbsp chili powder
+
 2 tsp ground cumin
+
 1 tsp dried oregano
+
 1 tsp smoked paprika
+
 1 14 oz can crushed tomatoes
+
 1 14 oz can diced tomatoes
+
 4 cup cooked black beans
+
 4 cup cooked pinto beans
+
 2 cup water
+
 2 tbsp sherry vinegar, red wine vinegar, or lime juice, to taste
 ~~~
 
