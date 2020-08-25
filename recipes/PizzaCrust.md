@@ -5,17 +5,17 @@ Title: Pizza Crust
 ### Ingredients
 
 ~~~ recipe-ingredients
-3/4 cup lukewarm water
-
-1 tablespoon olive oil
+2 cups unbleached all-purpose flour
 
 1 teaspoon salt
 
-2 cups unbleached all-purpose flour
+1 teaspoon baking powder
 
 1 1/2 teaspoons instant yeast
 
-1 teaspoon baking powder
+3/4 cup lukewarm water
+
+1 tablespoon olive oil
 ~~~
 
 
