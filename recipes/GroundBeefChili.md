@@ -29,7 +29,7 @@ Title: Ground Beef Chili
 
 1 14-ounce can pinto beans, drained
 
-2 cups beef broth (plus more to thin as needed)
+1 1/2 cups beef broth (plus more to thin as needed)
 ~~~
 
 Toppings: avocado, cheese, sour cream, tortilla chips, red onion, cilantro
