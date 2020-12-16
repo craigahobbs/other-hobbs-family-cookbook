@@ -25,3 +25,5 @@ Title: Pizza Sauce
 ### Directions
 
 Combine all ingredients in a small bowl.
+
+Spread the finished sauce liberally on the pizza crust.
