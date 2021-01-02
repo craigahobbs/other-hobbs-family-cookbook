@@ -1,5 +1,6 @@
 ~~~ recipe-info
 Title: Teresa's Bloody Mary
+Author: Teresa Ball
 ~~~
 
 ### Ingredients
@@ -14,8 +15,9 @@ Title: Teresa's Bloody Mary
 2 tbsp Worcestershire
 1/4 tsp garlic powder
 1/4 tsp Tabasco
+1 tbsp brown sugar
 3/4 tsp celery salt
-1 tbsp black pepper
+1 tsp black pepper
 ~~~
 
 
