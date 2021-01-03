@@ -10,7 +10,7 @@ Author: Teresa Ball
 1.5 C Clamato
 3 tbsp lemon juice
 3 tbsp lime juice
-1/3 C pickle juice
+1/3 C pickle juice (or pickled jalepeno juice)
 1 tbsp horseradish
 2 tbsp Worcestershire
 1/4 tsp garlic powder
