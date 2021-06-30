@@ -1,0 +1,21 @@
+{
+    "title": "The Other Hobbs Family Cookbook",
+    "titleURL": "extras/Title.md",
+    "headerColor": "lightgray",
+    "titleColor": "lightblue",
+    "categories": [
+        {
+            "title": "Recipes",
+            "files": [
+                "recipes/Cornbread.md",
+                "recipes/GroundBeefChili.md",
+                "recipes/Pancakes.md",
+                "recipes/PizzaCrust.md",
+                "recipes/PizzaSauce.md",
+                "recipes/TeresasBloodyMary.md",
+                "recipes/VeganChili.md",
+                "recipes/Waffles.md"
+            ]
+        }
+    ]
+}
