@@ -7,13 +7,12 @@
         {
             "title": "Recipes",
             "files": [
+                "recipes/ButterDips.md",
                 "recipes/Cornbread.md",
                 "recipes/GroundBeefChili.md",
                 "recipes/Pancakes.md",
                 "recipes/PizzaCrust.md",
                 "recipes/PizzaSauce.md",
-                "recipes/TeresasBloodyMary.md",
-                "recipes/VeganChili.md",
                 "recipes/Waffles.md"
             ]
         }
