@@ -4,6 +4,8 @@
 
 [Banana Nut Bread](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-BananaNutBread)
 
+[Berry Crisp](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Desserts&id=recipes-BerryCrisp)
+
 [Bolognese](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Main-Dishes&id=recipes-Bolognese)
 
 [Calzones](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Main-Dishes&id=recipes-Calzones)
