@@ -1,31 +1,36 @@
 ~~~ recipe-info
 Title: Pizza Crust
+Servings: 2 pizza crusts
 ~~~
 
-### Ingredients
+Stir together in a mixing bowl and let stand for 10 minutes:
 
 ~~~ recipe-ingredients
-2 cups unbleached all-purpose flour
+1 1/2 C warm water (110 degrees)
 
-1 teaspoon salt
+1 Tbsp dry yeast
 
-1 teaspoon baking powder
-
-1 1/2 teaspoons instant yeast
-
-3/4 cup lukewarm water
-
-1 tablespoon olive oil
+2 tsp sugar
 ~~~
 
+In a power mixer with the bread hook, mix:
 
-### Instructions
+~~~ recipe-ingredients
+4 C flour
 
-Mix and knead all of the ingredients to make a smooth, pliable dough. Cover the dough and let it rise at room
-temperature for 30 minutes, or in the refrigerator for 4 hours or overnight.
+2 tsp salt
 
-Roll the dough into a 12" circle. Transfer the crust to a piece of parchment (if you're baking on a stone), or a lightly
-oiled pizza pan, and let it rest for about 20 minutes. While it's resting, preheat the oven to 450 F.
+2 Tbsp olive oil
+~~~
 
-Top the crust as desired. Bake until the edges are crisp and the sauce or cheese is bubbling, about 14 to 18 minutes.
-Remove the pizza from the oven, and enjoy hot or warm.
+With the motor running, slowly add the liquid mixture to the dry ingredients until a soft dough
+forms. Turn the mixer off and extract the dough ball and turn it into a greased bowl.
+
+Cover the bowl and allow the dough to rise until double. "Punch" the dough down and divide it into
+individual dough balls.
+
+Roll each ball out on a floured surface and place it on an oiled baking pan. Cover the crust with
+[pizza sauce](#categories.0=Extras&categories.1=Recipes&id=recipes-PizzaSauce), shredded mozzarella
+or Colby-Jack cheese, and toppings as desired.
+
+Bake in a 425-degree oven for 18 to 20 minutes until cheese is bubbly and crust is brown.

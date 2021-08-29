@@ -2,45 +2,45 @@
 Title: Ground Beef Chili
 ~~~
 
-### Ingredients
+Add the dry beans and water to the pressure cooker. Cook on high pressure for 25 minutes. After
+cooking is complete, allow pressure to release naturally, about 15 minutes.
 
 ~~~ recipe-ingredients
-1 tablespoon oil
+1 C dry black beans
 
-1 1/2 pounds ground beef
+1/2 C dry pinto beans
 
-1 Whole onion, diced
-
-4 cloves garlic, minced
-
-1 serrano pepper, minced
-
-3 tablespoons chili powder
-
-1 tablespoons cumin
-
-1 tablespoon oregano
-
-2 teaspoons salt
-
-1 28-ounce can crushed tomatoes
-
-2 14-ounce cans black beans, drained
-
-1 14-ounce can pinto beans, drained
-
-1 1/2 cups beef broth (plus more to thin as needed)
+4 C water
 ~~~
 
-Toppings: avocado, cheese, sour cream, tortilla chips, red onion, cilantro
+Heat a large Dutch oven over medium-high heat. Add the ground beef and spices and brown until fully
+cooked.
 
+~~~ recipe-ingredients
+1 1/2 pounds ground beef
 
-### Directions
+3 tbsp chili powder
 
-In a large Dutch oven, heat the oil over medium-high heat. Saute the onion, garlic, and serrano
-pepper until soft and fragrant.
+1 tbsp cumin
 
-Add the ground beef and spices. Brown until fully cooked.
+1 tbsp onion powder
 
-Add tomatoes, beans, and broth. Bring to a low simmer, cover, and continue simmering over low heat
-for at least 30-45 minutes.
+1 tbsp oregano
+
+2 tsp salt
+
+1/2 tsp cayenne pepper
+
+1/2 tsp garlic powder
+~~~
+
+Add tomatoes, cooked beans (from above), and water. Bring to a low simmer, cover, and continue
+simmering over low heat for at least 30 minutes.
+
+~~~ recipe-ingredients
+1 28-ounce can crushed tomatoes
+
+1 C water (plus more to thin as needed)
+~~~
+
+Toppings: Cheese, sour cream, tortilla chips, chopped onion, cilantro

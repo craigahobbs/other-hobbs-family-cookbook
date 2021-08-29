@@ -1,23 +1,24 @@
 ~~~ recipe-info
-Title: Waffles
+Title: Pancakes and Waffles
 ~~~
 
-### Ingredients
+Add all ingredients to a large mixing bowl and whisk until smooth.
 
 ~~~ recipe-ingredients
 2 C all-purpose flour
-2 tbsp sugar
+3 tbsp sugar
 1 tbsp baking powder
 1/2 tsp salt
 1 3/4 C milk
-1/3 C vegetable oil
+1/4 C vegetable oil
 2 large eggs
 ~~~
 
+#### For Pancakes
 
-### Directions
+Pour 1/4 cup batter onto a medium-hot griddle. Flip when the cakes start to bubble.
 
-Add all ingredients to a large mixing bowl and whisk until smooth.
+#### For Waffles
 
 For 6 1/2 inch round waffles, pour 1/2 cup batter onto the hot waffle maker.
 

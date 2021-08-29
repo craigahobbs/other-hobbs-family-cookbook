@@ -8,12 +8,17 @@
             "title": "Recipes",
             "files": [
                 "recipes/ButterDips.md",
-                "recipes/Cornbread.md",
                 "recipes/GroundBeefChili.md",
-                "recipes/Pancakes.md",
+                "recipes/PancakesWaffles.md",
                 "recipes/PizzaCrust.md",
-                "recipes/PizzaSauce.md",
-                "recipes/Waffles.md"
+                "recipes/PizzaSauce.md"
+            ]
+        },
+        {
+            "title": "Extras",
+            "files": [
+                "extras/Conversions.md",
+                "extras/Links.md"
             ]
         }
     ]
