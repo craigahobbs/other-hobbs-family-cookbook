@@ -10,6 +10,10 @@
 
 [Calzones](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Main-Dishes&id=recipes-Calzones)
 
+[Crescent Rolls](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-CrescentRolls&scale=1)
+
+[Mom's Coffee Cake](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-MomsCoffeeCake)
+
 [Rosellinis Summer Pasta Salad](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Salads-Sides&id=recipes-RosellinisSummerPastaSalad)
 
 
