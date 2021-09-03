@@ -19,8 +19,6 @@
 
 ## Miscellaneous
 
-[Caribbean Style Corn](https://www.sidechef.com/recipes/5511/caribbean_style_corn_on_the_cob/)
-
 [Chicken Enchiladas](https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/)
 
 [Coffeehouse Scones](https://www.joyofbaking.com/SconesCoffeehouse.html)
