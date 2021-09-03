@@ -1,5 +1,5 @@
 ``` recipe-info
-Title: Carribean Corn
+Title: Caribbean Corn
 ```
 
 Remove the husks and silk from each ear of corn.
