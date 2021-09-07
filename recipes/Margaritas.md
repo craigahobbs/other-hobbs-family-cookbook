@@ -1,5 +1,5 @@
 ~~~ recipe-info
-Title: Margarita
+Title: Margaritas
 Servings: 6
 ~~~
 
