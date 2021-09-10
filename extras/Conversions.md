@@ -5,3 +5,5 @@
 1 clove garlic, chopped = 1/8 teaspoon garlic powder
 
 14.5 oz can beans = 1/2 C dry beans
+
+1 liquid oz = 1/8 C
