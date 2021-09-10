@@ -10,7 +10,7 @@ cooking is complete, allow pressure to release naturally, about 15 minutes.
 
 1/2 C dry pinto beans
 
-4 C water
+6 C water
 ~~~
 
 Heat a large Dutch oven over medium-high heat. Add the ground beef and spices and brown until fully
