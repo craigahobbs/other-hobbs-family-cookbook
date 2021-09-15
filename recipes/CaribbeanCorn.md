@@ -8,7 +8,7 @@ Remove the husks and silk from each ear of corn.
 4 ears corn
 ```
 
-Wrap each ear in aluminum foil. Preheat oven to 350 F and bake for 40 minutes.
+Wrap each ear in aluminum foil. Preheat oven to 350 F and bake for 60 minutes.
 
 For the aioli, mix the following until smooth:
 
