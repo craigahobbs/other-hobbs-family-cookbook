@@ -1,12 +1,12 @@
 ~~~ recipe-info
 Title: Pizza Crust
-Servings: 2 pizza crusts
+Servings: 2
 ~~~
 
 Stir together in a mixing bowl and let stand for 10 minutes:
 
 ~~~ recipe-ingredients
-1 1/2 C warm water (110 degrees)
+1 3/4 C warm water (110 degrees)
 
 1 Tbsp dry yeast
 
@@ -16,7 +16,7 @@ Stir together in a mixing bowl and let stand for 10 minutes:
 In a power mixer with the bread hook, mix:
 
 ~~~ recipe-ingredients
-4 C flour
+4 1/2 C flour
 
 2 tsp salt
 

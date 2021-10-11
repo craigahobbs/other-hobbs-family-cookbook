@@ -1,5 +1,6 @@
 ~~~ recipe-info
 Title: Pizza Sauce
+Servings: 4
 ~~~
 
 Mix all ingredients in a small bowl.

@@ -21,8 +21,6 @@
 
 [Chicken Enchiladas](https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/)
 
-[Coffeehouse Scones](https://www.joyofbaking.com/SconesCoffeehouse.html)
-
 [Mom's Ginger Snaps](https://www.allrecipes.com/recipe/10757/moms-ginger-snaps/)
 
 [Snickerdoodle Cookies](https://www.bettycrocker.com/recipes/classic-snickerdoodle-cookies/7ffc92a9-d847-4869-9ecb-99de3b751b14)
