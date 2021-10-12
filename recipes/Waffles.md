@@ -1,6 +1,6 @@
 ~~~ recipe-info
-Title: Pancakes and Waffles
-Servings: 16 pancakes
+Title: Waffles
+Servings: 8
 ~~~
 
 Add all ingredients to a large mixing bowl and whisk until smooth.
@@ -11,15 +11,9 @@ Add all ingredients to a large mixing bowl and whisk until smooth.
 1 tbsp baking powder
 1/2 tsp salt
 1 3/4 C milk
-1/4 C vegetable oil
+1/3 C vegetable oil
 2 large eggs
 ~~~
-
-#### For Pancakes
-
-Pour 1/4 cup batter onto a medium-hot, buttered griddle. Flip when the cakes start to bubble.
-
-#### For Waffles
 
 For 6 1/2 inch round waffles, pour 1/2 cup batter onto the hot waffle maker.
 
