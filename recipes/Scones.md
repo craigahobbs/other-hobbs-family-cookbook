@@ -1,6 +1,6 @@
 ~~~ recipe-info
 Title: Scones
-Servings: 1
+Servings: 8
 ~~~
 
 In a large bowl, mix together:
