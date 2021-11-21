@@ -8,9 +8,9 @@ layer on the sheet.
 
 ~~~ recipe-ingredients
 3 lbs boneless beef chuck
-1 tbsp vegetable oil
-2 tsp salt
-2 tsp ground black pepper
+2 tbsp vegetable oil
+1 tsp salt
+1/2 tsp ground black pepper
 ~~~
 
 Broil on high in a conventional oven for 6-8 minutes with the sheet 3-4 inches below the broiler
