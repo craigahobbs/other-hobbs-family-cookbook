@@ -6,7 +6,7 @@ Heat the oven to 450 F. Cut the butter into pieces and place in a 9-inch-square 
 baking dish in the oven to melt the butter, about 5 minutes.
 
 ~~~ recipe-ingredients
-1/4 cup unsalted butter
+1/4 cup butter
 ~~~
 
 While the butter is melting, whisk the flour, sugar, baking powder, salt, and milk in a large mixing
