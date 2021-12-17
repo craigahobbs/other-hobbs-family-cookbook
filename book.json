@@ -5,20 +5,49 @@
     "titleColor": "lightblue",
     "categories": [
         {
-            "title": "Recipes",
+            "title": "Main Dishes",
             "files": [
-                "recipes/BlackBeans.md",
-                "recipes/ButterDips.md",
-                "recipes/CaribbeanCorn.md",
-                "recipes/ChocolateChipCookies.md",
                 "recipes/GroundBeefChili.md",
-                "recipes/Margaritas.md",
-                "recipes/Pancakes.md",
                 "recipes/PizzaCrust.md",
                 "recipes/PizzaSauce.md",
+                "recipes/TexasChili.md"
+            ]
+        },
+        {
+            "title": "Rice and Beans",
+            "files": [
+                "recipes/BasmatiRice.md",
+                "recipes/BlackBeans.md",
+                "recipes/BrownRice.md",
+                "recipes/JasmineRice.md",
+                "recipes/LentilCurry.md"
+            ]
+        },
+        {
+            "title": "Sides",
+            "files": [
+                "recipes/ButterDips.md",
+                "recipes/CaribbeanCorn.md"
+            ]
+        },
+        {
+            "title": "Breakfast",
+            "files": [
+                "recipes/Pancakes.md",
                 "recipes/Scones.md",
-                "recipes/TexasChili.md",
                 "recipes/Waffles.md"
+            ]
+        },
+        {
+            "title": "Desserts",
+            "files": [
+                "recipes/ChocolateChipCookies.md"
+            ]
+        },
+        {
+            "title": "Cocktails",
+            "files": [
+                "recipes/Margaritas.md"
             ]
         },
         {
