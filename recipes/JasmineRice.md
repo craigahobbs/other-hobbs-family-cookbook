@@ -1,12 +1,21 @@
-~~~ recipe-info
-Title: Jasmine Rice
+~~~ markdown-script
+include 'https://craigahobbs.github.io/hobbs-family-cookbook/markdownBookRecipe.mds'
+recipeMenu()
+~~~
+
+# Jasmine Rice
+
+~~~ markdown-script
+recipeHeader()
 ~~~
 
 Rinse the rice in a fine mesh strainer. Add the rinsed rice and the water to the pressure cooker pot.
 
-~~~ recipe-ingredients
-2 C jasmine rice, rinsed
-2 C water
+~~~ markdown-script
+recipeIngredients( \
+    '2 C jasmine rice, rinsed', \
+    '2 C water' \
+)
 ~~~
 
 Close the pressure cooker lid and cook for 1 minute at high pressure.

@@ -1,3 +1,8 @@
+~~~ markdown-script
+include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.mds'
+recipeMenu()
+~~~
+
 # Links
 
 ## Hobbs Family Cookbook

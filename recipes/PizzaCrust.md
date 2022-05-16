@@ -1,26 +1,32 @@
-~~~ recipe-info
-Title: Pizza Crust
-Servings: 2
+~~~ markdown-script
+include 'https://craigahobbs.github.io/hobbs-family-cookbook/markdownBookRecipe.mds'
+recipeMenu()
+~~~
+
+# Pizza Crust
+
+~~~ markdown-script
+recipeHeader(null, 2)
 ~~~
 
 Stir together in a mixing bowl and let stand for 10 minutes:
 
-~~~ recipe-ingredients
-1 3/4 C warm water (110 degrees)
-
-1 Tbsp dry yeast
-
-2 tsp sugar
+~~~ markdown-script
+recipeIngredients( \
+    '1 3/4 C warm water (110 degrees)', \
+    '1 Tbsp dry yeast', \
+    '2 tsp sugar' \
+)
 ~~~
 
 In a power mixer with the bread hook, mix:
 
-~~~ recipe-ingredients
-4 1/2 C flour
-
-2 tsp salt
-
-2 Tbsp olive oil
+~~~ markdown-script
+recipeIngredients( \
+    '4 1/2 C flour', \
+    '2 tsp salt', \
+    '2 Tbsp olive oil' \
+)
 ~~~
 
 With the motor running, slowly add the liquid mixture to the dry ingredients until a soft dough

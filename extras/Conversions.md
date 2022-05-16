@@ -1,3 +1,8 @@
+~~~ markdown-script
+include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.mds'
+recipeMenu()
+~~~
+
 # Conversions
 
 1 medium onion, chopped = 1 tbsp onion powder
