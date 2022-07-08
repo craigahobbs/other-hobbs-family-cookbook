@@ -28,8 +28,8 @@ recipeIngredients( \
     '1 1/2 pounds ground beef', \
     '3 tbsp chili powder', \
     '1 tbsp cumin', \
-    '1 tbsp onion powder', \
-    '1 tbsp oregano', \
+    '1 tsp onion powder', \
+    '1 tsp oregano', \
     '2 tsp salt', \
     '1/2 tsp cayenne pepper', \
     '1/2 tsp garlic powder' \
