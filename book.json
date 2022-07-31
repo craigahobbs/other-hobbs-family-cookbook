@@ -30,6 +30,7 @@
         {
             "title": "Breakfast",
             "files": [
+                "recipes/DonutMuffins.md",
                 "recipes/Pancakes.md",
                 "recipes/Scones.md",
                 "recipes/SteelCutOats.md",
