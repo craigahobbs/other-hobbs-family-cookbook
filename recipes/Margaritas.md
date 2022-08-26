@@ -13,7 +13,8 @@ Mix the following in a pitcher:
 
 ~~~ markdown-script
 recipeIngredients( \
-    '1.5 C tequila', \
+    '1 C tequila', \
+    '1 C water', \
     '1/2 C lime juice', \
     '1/2 C simple syrup', \
     '1/2 C light beer' \
