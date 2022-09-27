@@ -1,8 +1,9 @@
 ~~~ markdown-script
 include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.mds'
-recipeMenu()
+
+recipeTitlePage(objectNew( \
+    'title', 'The Other Hobbs', \
+    'title2', 'Family Cookbook', \
+    'sourceURL', 'https://github.com/craigahobbs/other-hobbs-family-cookbook' \
+))
 ~~~
-
-# The Other Hobbs Family Cookbook
-
-[Source Code](https://github.com/craigahobbs/other-hobbs-family-cookbook)
