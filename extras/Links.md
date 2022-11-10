@@ -7,19 +7,17 @@ recipeMenu()
 
 ## Hobbs Family Cookbook
 
-[Banana Nut Bread](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-BananaNutBread)
+[Banana Nut Bread](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FBananaNutBread.md&var.vCategory='Breads')
 
-[Berry Crisp](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Desserts&id=recipes-BerryCrisp)
+[Bolognese](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FBolognese.md&var.vCategory='Main%20Dishes')
 
-[Bolognese](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Main-Dishes&id=recipes-Bolognese)
+[Calzones](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FCalzones.md&var.vCategory='Main%20Dishes')
 
-[Calzones](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Main-Dishes&id=recipes-Calzones)
+[Crescent Rolls](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FCrescentRolls.md&var.vCategory='Breads')
 
-[Crescent Rolls](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-CrescentRolls&scale=1)
+[Mom's Coffee Cake](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FMomsCoffeeCake.md&var.vCategory='Breads')
 
-[Mom's Coffee Cake](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Breads&id=recipes-MomsCoffeeCake)
-
-[Rosellinis Summer Pasta Salad](https://craigahobbs.github.io/hobbs-family-cookbook/#categories.0=Salads-Sides&id=recipes-RosellinisSummerPastaSalad)
+[Rosellinis Summer Pasta Salad](https://craigahobbs.github.io/hobbs-family-cookbook/#url=recipes%2FRosellinisSummerPastaSalad.md&var.vCategory='Salads%20%26%20Sides')
 
 
 ## Miscellaneous

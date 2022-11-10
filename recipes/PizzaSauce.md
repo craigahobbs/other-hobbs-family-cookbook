@@ -6,13 +6,15 @@ recipeMenu()
 # Pizza Sauce
 
 ~~~ markdown-script
-recipeHeader(null, 4)
+recipeHeader(objectNew( \
+    'servings', 4 \
+))
 ~~~
 
 Mix all ingredients in a small bowl.
 
 ~~~ markdown-script
-recipeIngredients( \
+recipeIngredients(arrayNew( \
     '1 14.5 oz crushed tomatoes', \
     '1 6 oz can tomato paste', \
     '2 tbsp olive oil', \
@@ -21,5 +23,5 @@ recipeIngredients( \
     '1 tsp dried basil', \
     '1 tsp salt', \
     '1/2 tsp garlic powder' \
-)
+))
 ~~~

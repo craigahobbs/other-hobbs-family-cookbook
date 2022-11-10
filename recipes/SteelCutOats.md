@@ -12,10 +12,10 @@ recipeHeader()
 Add the steel-cut oats and the water to the pressure cooker pot.
 
 ~~~ markdown-script
-recipeIngredients( \
+recipeIngredients(arrayNew( \
     '1 C steel-cut oats', \
     '3 C water' \
-)
+))
 ~~~
 
 Close the pressure cooker lid and cook for 3 minutes at high pressure.
