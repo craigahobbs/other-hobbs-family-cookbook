@@ -21,14 +21,16 @@ recipeIngredients(arrayNew( \
     '3/4 C Sweet vermouth', \
     '3/4 C Orange Curacao or Triple Sec', \
     '3/4 C water', \
-    '1 C lime juice', \
+    '3/4 C lime juice', \
+    '1/4 C simple syrup', \
     '12 dashes Angostura Bitters' \
 ))
 ~~~
 
 **Preparation**:
 
-1. In a large pitcher, combine the bourbon, sweet vermouth, orange curacao (or triple sec), and fresh lime juice.
+1. In a large pitcher, combine the bourbon, sweet vermouth, orange curacao (or triple sec), fresh
+   lime juice, and simple syrup.
 
 2. Stir well to ensure all ingredients are thoroughly mixed.
 
