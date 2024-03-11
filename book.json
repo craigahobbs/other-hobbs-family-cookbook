@@ -47,6 +47,7 @@
         {
             "title": "Cocktails",
             "files": [
+                "recipes/BloodyMarys.md",
                 "recipes/Derby.md",
                 "recipes/Margaritas.md"
             ]
