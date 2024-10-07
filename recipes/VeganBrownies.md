@@ -35,7 +35,7 @@ recipeIngredients(arrayNew( \
 ))
 markdownPrint( \
     '', \
-    'Pour into a 9x' + if(vScale < 0.7, '9', '13') + '-inch baking dish and bake for 25-30 minutes until the top is no longer shiny.', \
-    'Let cool for 10 minutes before serving.' \
+    'Pour into a 9x' + if(vScale < 0.7, '9', '13') + '-inch baking dish', \
+    'and bake at 350 F for 25-30 minutes until the top is no longer shiny. Let cool for 10 minutes before serving.' \
 )
 ~~~
