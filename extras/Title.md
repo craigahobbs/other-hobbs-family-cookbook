@@ -1,5 +1,5 @@
 ~~~ markdown-script
-include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.mds'
+include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.bare'
 
 recipeTitlePage(objectNew( \
     'title', 'The Other Hobbs', \
