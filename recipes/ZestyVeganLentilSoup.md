@@ -6,18 +6,18 @@ recipeMenu()
 # Zesty Vegan Lentil Soup
 
 ~~~ markdown-script
-recipeHeader( \
-    'servings', 6 \
-)
+recipeHeader({ \
+    'servings': 6 \
+})
 ~~~
 
-Here’s a zesty vegan lentil soup recipe that’s hearty, flavorful, and perfect for a cozy meal. It’s
+Here's a zesty vegan lentil soup recipe that's hearty, flavorful, and perfect for a cozy meal. It's
 packed with spices and fresh ingredients to give it that extra kick!
 
 ## Ingredients:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '1 tablespoon olive oil', \
     '1 medium yellow onion, diced', \
     '2 medium carrots, chopped', \
@@ -35,7 +35,7 @@ recipeIngredients(arrayNew( \
     '1/2 teaspoon ground turmeric', \
     'Salt and black pepper, to taste', \
     '1 cup fresh spinach or kale, roughly chopped (optional)' \
-))
+])
 ~~~
 
 ## Instructions:

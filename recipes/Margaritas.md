@@ -6,21 +6,21 @@ recipeMenu()
 # Margaritas
 
 ~~~ markdown-script
-recipeHeader(objectNew( \
-    'servings', 6 \
-))
+recipeHeader({ \
+    'servings': 6 \
+})
 ~~~
 
 Mix the following in a pitcher:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '1 C tequila', \
     '1 C water', \
     '1/2 C lime juice', \
     '1/2 C simple syrup', \
     '1/2 C light beer' \
-))
+])
 ~~~
 
 Pour into ice-filled, salt-rimmed glasses and enjoy!

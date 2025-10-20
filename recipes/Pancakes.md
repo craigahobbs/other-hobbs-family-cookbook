@@ -6,15 +6,15 @@ recipeMenu()
 # Pancakes
 
 ~~~ markdown-script
-recipeHeader(objectNew( \
-    'servings', 16 \
-))
+recipeHeader({ \
+    'servings': 16 \
+})
 ~~~
 
 Add all ingredients to a large mixing bowl and whisk until smooth.
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '2 C all-purpose flour', \
     '3 tbsp sugar', \
     '1 tbsp baking powder', \
@@ -22,7 +22,7 @@ recipeIngredients(arrayNew( \
     '1 3/4 C milk', \
     '1/4 C vegetable oil', \
     '2 large eggs' \
-))
+])
 ~~~
 
 Pour 1/4 cup batter onto a medium-hot, greased griddle. Flip when the cakes start to bubble.

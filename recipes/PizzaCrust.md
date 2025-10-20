@@ -6,29 +6,27 @@ recipeMenu()
 # Pizza Crust
 
 ~~~ markdown-script
-recipeHeader(objectNew( \
-    'servings', 2 \
-))
+recipeHeader({'servings': 2})
 ~~~
 
 Stir together in a mixing bowl and let stand for 10 minutes:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '1 3/4 C warm water (110 degrees)', \
     '1 Tbsp dry yeast', \
     '2 tsp sugar' \
-))
+])
 ~~~
 
 In a power mixer with the bread hook, mix:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '4 1/2 C flour', \
     '2 tsp salt', \
     '2 Tbsp olive oil' \
-))
+])
 ~~~
 
 With the motor running, slowly add the liquid mixture to the dry ingredients until a soft dough

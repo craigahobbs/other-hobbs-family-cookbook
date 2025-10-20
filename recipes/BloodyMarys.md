@@ -6,15 +6,15 @@ recipeMenu()
 # Bloody Mary's
 
 ~~~ markdown-script
-recipeHeader(objectNew( \
-    'servings', 6 \
-))
+recipeHeader({ \
+    'servings': 6 \
+})
 ~~~
 
 Mix the following in a pitcher:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '2 C tomato juice', \
     '1 1/2 C vodka', \
     '1 C water', \
@@ -24,7 +24,7 @@ recipeIngredients(arrayNew( \
     '1 tsp horseradish', \
     '1/4 tsp salt', \
     '1/4 tsp black pepper' \
-))
+])
 ~~~
 
 Pour into ice-filled glasses with your favorite garnish and enjoy!

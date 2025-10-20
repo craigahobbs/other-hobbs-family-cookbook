@@ -6,9 +6,9 @@ recipeMenu()
 # Derby Cocktail Pitcher
 
 ~~~ markdown-script
-recipeHeader(objectNew( \
-    'servings', 12 \
-))
+recipeHeader({ \
+    'servings': 12 \
+})
 ~~~
 
 Here's the Derby cocktail recipe converted to cup measurements for a group of 8-10 people:
@@ -16,7 +16,7 @@ Here's the Derby cocktail recipe converted to cup measurements for a group of 8-
 **Ingredients for a Pitcher**:
 
 ~~~ markdown-script
-recipeIngredients(arrayNew( \
+recipeIngredients([ \
     '3 C Bourbon', \
     '3/4 C Sweet vermouth', \
     '3/4 C Orange Curacao or Triple Sec', \
@@ -24,7 +24,7 @@ recipeIngredients(arrayNew( \
     '3/4 C lime juice', \
     '1/4 C simple syrup', \
     '12 dashes Angostura Bitters' \
-))
+])
 ~~~
 
 **Preparation**:
