@@ -1,5 +1,5 @@
 ~~~ markdown-script
-include 'https://craigahobbs.github.io/hobbs-family-cookbook//markdownBookRecipe.bare'
+include '../../hobbs-family-cookbook/markdownBookRecipe.bare'
 
 recipeTitlePage({ \
     'title': 'The Other Hobbs', \
